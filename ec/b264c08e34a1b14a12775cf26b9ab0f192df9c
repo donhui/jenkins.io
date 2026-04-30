@@ -1,0 +1,23 @@
+content/security/advisory/2026-04-29.adoc
+  2fc864c9e172e49b 38
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "ecb264c08e34a1b14a12775cf26b9ab0f192df9c",
+  "prompts": {
+    "2fc864c9e172e49b": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ddd5c-79a4-7202-aa81-e7c5f2e932e9",
+        "model": "gpt-5.4"
+      },
+      "human_author": "donhui",
+      "messages": [],
+      "total_additions": 1,
+      "total_deletions": 1,
+      "accepted_lines": 1,
+      "overriden_lines": 0
+    }
+  }
+}
