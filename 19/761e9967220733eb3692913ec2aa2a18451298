@@ -1,0 +1,19 @@
+content/blog/2026/07/06/2026-07-06-smart-retry.adoc
+  s_21c4adf6e68bf1::t_2e577b3f63ab7f 11,14
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "19761e9967220733eb3692913ec2aa2a18451298",
+  "prompts": {},
+  "sessions": {
+    "s_21c4adf6e68bf1": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f2713-b5b0-7303-a3b5-3cc580459521",
+        "model": "gpt-5.4"
+      },
+      "human_author": "donhui <977675308@qq.com>"
+    }
+  }
+}
